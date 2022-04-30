@@ -958,6 +958,10 @@ body {
         right: 20px;
         bottom: 50px;
     }
+    /* contact */
+    .contact-title p{
+        font-size: 16px;
+    }
 
 /* SP表示375px*/
 @media screen and (max-width:375px){
