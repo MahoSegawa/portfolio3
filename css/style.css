@@ -570,7 +570,7 @@ body {
   input[type="submit" i]{
       border-width: 0px;
   }
-  
+
 /* PCフッター */
 .sp-footer-container{
     display: none;
@@ -1054,7 +1054,7 @@ body {
     }
 
 /* SP表示375px*/
-@media screen and (min-width:375px) and (max-width:549px){
+@media screen and (min-width:374px) and (max-width:549px){
     /* .fv-bg{
         background-image: url(../images/sp-fv-bg2.png);
     } */
