@@ -1005,7 +1005,7 @@ body {
             }
         .fv-text h3{
             color: #fff;
-            font-family:  "ヒラギノ角ゴ ProN W5",sans-serif;
+            /* font-family:  "ヒラギノ角ゴ ProN W5",sans-serif; */
             font-size: 35px;
             padding-left: 20px;
             letter-spacing:0.08em
@@ -1091,7 +1091,7 @@ body {
     
     .fv-text h3{
             color: #fff;
-            font-family:  "ヒラギノ角ゴ ProN W4",sans-serif;
+            /* font-family:  "ヒラギノ角ゴ ProN W4",sans-serif; */
             font-size: 30px;
             padding-left: 20px;
             letter-spacing:0.08em
