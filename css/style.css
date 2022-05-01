@@ -146,6 +146,9 @@ body {
     line-height: 1.75;
     letter-spacing: 0.1em;
   }
+  .sp-svg{
+      display: none;
+  }
 
 /* about */
 .about-title{
@@ -983,20 +986,29 @@ body {
         background-image: url(../images/fv-irast\ 13.12.53.png);
     }
     .svg{
-        width: 35%;
+        /* width: 35%;
         max-width: 100%;
         height: auto;
         padding-left:20px;
         /* padding-top: 200px; */
-        margin-bottom: 5px;
-        
+        /* margin-bottom: 5px; */ 
+        display: none;
         }
-    
+        .sp-svg{
+            width: 150px;
+            max-width: 100%;
+            height: auto;
+            padding-left:20px;
+            /* padding-top: 200px; */
+            margin-bottom: 10px;
+            display: block;
+            }
         .fv-text h3{
             color: #fff;
+            font-family:  "ヒラギノ角ゴ ProN W5";
             font-size: 35px;
             padding-left: 20px;
-            letter-spacing:0.05em
+            letter-spacing:0.08em
         }
     .fv-text h2{
         padding-top:250px;
@@ -1067,21 +1079,22 @@ body {
         right: 20px;
         color: #333333;
     }
-    .svg{
-        width: 160px;
+    .sp-svg{
+        width: 155px;
         max-width: 100%;
         height: auto;
         padding-left:20px;
-        padding-top: 200px;
-        margin-bottom: 5px;
+        padding-top: 10px;
+        margin-bottom: 10px;
         
         }
     
-        .fv-text h3{
+    .fv-text h3{
             color: #fff;
+            font-family:  "ヒラギノ角ゴ ProN W4";
             font-size: 30px;
             padding-left: 20px;
-            letter-spacing:0.05em
+            letter-spacing:0.08em
         }
     .fv-text h2{
         padding-top:250px;
