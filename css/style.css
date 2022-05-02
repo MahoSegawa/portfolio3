@@ -612,7 +612,7 @@ body {
 
 #top-btn{
     position: fixed;
-    bottom: 200px;
+    bottom: 50px;
     right: 50px;
     display: flex;
     justify-content: center;
