@@ -1062,6 +1062,10 @@ body {
     .arrow{
         width: 8px;
         height: 8px;}
+    
+    .sp-nav-item{
+        padding-top: 150px;
+    }
 
     /* contact */
     .contact-title p{
