@@ -711,6 +711,7 @@ body {
         height: 120vh;
         width: 100%;
         background: rgba(0, 0, 0, 0.8);
+        padding-top: 150px;
     }
     .sp-nav ul{
         height: 100%;
